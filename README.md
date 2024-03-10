@@ -4,7 +4,7 @@ O código pode ser adaptado para uma bolsa diferente, bastando alterar suas aç�
 
 Essa versão apresenta gráficos interativos com o uso da biblioteca plotly.
 
-Caso prefira, pode usar o link abaixo para clonar o código ou fazer download do arquivo dentro desse repositório.
+Infelizmente o arquivo upado no repositório não ilustra os gráficos aqui no GitHub. Desta forma, aconselho a utilizar o link abaixo ou fazer dowlonad do arquivo e executar em seu ambiente.
 * https://colab.research.google.com/drive/17sfjIo79t9yDxO_CBSckHpNCS1bXt1bT?usp=sharing
 
 
